@@ -1,0 +1,13 @@
+ Will stop DDOS attacks, check authentication and check location to make sure that a person wanting the information from somewhere is actually in the place that they say they are.
+If they go down the whole of prime video will also go down as prime video would be unable to get any of the information that would be needed.
+Are the connection between the app and the information that the app will need.
+The proxy will get the information from a sandbox which will be unavailable to the public and give it to the other teams who would need it for example the ios team who would need the information for the prime video app. 
+Load balances that will distrbibute the load.
+Film being moved onto a mobile device:
+problems:
+Some of the long shots, in the movie, that are used will become harder to see as the screen that you will watch it on will be a lot smaller.
+The sound an image will become a lot worse, compared to the cinema, when it is on the phone as the phone will not have the capabilities that you would have at a cinema with the sound and image.
+In action scenes there is a lot of camera movement so the viewer would most likely have a worsened experience while watching this movie on their phone. 
+The film will also have to be scaled so that it can fit on the phone screen meaning that they may have to use black bars on the top and bottom of the screen or zoom in on the screen and remove some of the content that would be on the outside of the screen.
+
+ 
