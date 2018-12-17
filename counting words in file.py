@@ -1,7 +1,8 @@
+
 special_characters=[".",",",":"]
 file=open("proxy-clean-text.txt","r+")
 wordcount={}
-for word in file.read().split():
+for word in file.read().lower().split():
     for special_character in special_characters:
         word=word.replace(special_character,"")
     if word not in wordcount:
