@@ -3,7 +3,7 @@ def remove_special_characters(word):
     new_word=""
     for character in word:
         ascii_code=ord(character)
-        if ascii_code>=ord("a")and ascii_code<=ord("z"):
+        if ascii_code>=ord("a") and ascii_code<=ord("z"):
             new_word=new_word+character
     return new_word
     
