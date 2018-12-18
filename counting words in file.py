@@ -6,8 +6,9 @@ def remove_special_characters(word):
         if ascii_code>=ord("a") and ascii_code<=ord("z"):
             new_word=new_word+character
     return new_word
-    
-file=open("proxy-clean-text.txt","r+")
+
+file_name=input("please enter the file name you would like to be scanned")
+file=open(file_name,"r+")
 wordcount={}
 for word in file.read().lower().split():
     word=remove_special_characters(word)
