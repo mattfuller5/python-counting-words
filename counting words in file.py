@@ -1,8 +1,6 @@
 
-
-def bubble_sort(list):
-    
-    
+#Input: The list in a random order
+def bubble_sort(list):   
     length=len(list)
     switched=True
     while switched == True:
@@ -13,6 +11,7 @@ def bubble_sort(list):
                 list[x-1]=list[x]
                 list[x]=temp
                 switched=True
+#Output: The list in descending order
             
     return list
 
